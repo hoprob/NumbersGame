@@ -8,7 +8,6 @@ namespace NumbersGame
         {
             Console.WriteLine("\t\t≡≡≡Välkommen!≡≡≡ \nI detta spelet skall du" +
                 " försöka att gissa rätt nummer!\n");
-            Console.WriteLine("HELLO BUG");
             bool isRunning = true;
             bool rightGuess; //Bool för att veta om användaren gissat rätt
             int number; //Det "rätta" numret
